@@ -286,5 +286,5 @@ End Module
 
 ---
 
-|[Performance Lab 2](/Labs/PseudoLab2.md)
+|[Performance Lab 2](Labs/PseudoLab2.md)
 
