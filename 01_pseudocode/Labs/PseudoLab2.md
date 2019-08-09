@@ -54,11 +54,9 @@ Module raiseToPower(Real value, Integer power)
 End Module
 ```
 
----
-
 **End of Lab2**
 
 ---
----
+
 |[Next Topic](/01_pseudocode/03_Structure.md)|
 |---|
