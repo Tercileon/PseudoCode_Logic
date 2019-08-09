@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/04-IDE-s-and-Algorithms-Pt.-1/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
 ---
  
@@ -370,8 +371,12 @@ End For
 * Case structure is a specialized selection structure that can be used when there are several distinct possible values for a single variable, and each value requires a different subsequent action
 
 ---
+
 **Performance Lab 4**
 
 * Complete Performance Lab 4 prior to continuing to the next Topic
 
-<a href="https://github.com/CyberTrainingUSAF/04-Logic-Pseudocode_IDEs/blob/master/01_pseudocode/Labs/PseudoLab4.md" > Continue to Performance Lab 4
+---
+
+|[Performance Lab 4](Labs/PseudoLab4.md)|
+|---|
