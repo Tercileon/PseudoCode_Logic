@@ -346,5 +346,5 @@ End While
 
 ---
 
-|[Performance Lab 6](Labs/PseudoLab61.md)|
+|[Performance Lab 6](Labs/PseudoLab6.md)|
 |---|
