@@ -56,8 +56,7 @@ End Module
 
 ---
 
-End of Performance Lab 3
+**End of Performance Lab 3**
 
----
-|[Next Topic](04_Decisions.md)|
+|[Next Topic](/01_pseudocode/04_Decisions.md)|
 |---|
