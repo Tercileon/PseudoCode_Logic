@@ -268,6 +268,6 @@ Since the early days of computer programming, program errors have been called bu
 
 * Please complete the instructor provided **Performance Labs 1**
 
-|[Performance Lab 1](/Labs/PseudoLab1.md)|
+|[Performance Lab 1](Labs/PseudoLab1.md)|
 |---|
 
