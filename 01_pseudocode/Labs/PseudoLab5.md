@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/04-IDE-s-and-Algorithms-Pt.-1/blob/master/00-Table-of-Contents.md" rel="Continiue to Performance Lab 5"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -68,7 +69,5 @@ End Function
 
 **End of Performance Lab 5**
 
----
-
-<a href="https://github.com/CyberTrainingUSAF/04-Logic-Pseudocode_IDEs/blob/master/01_pseudocode/06_Arrays.md" > Continue to Next Topic </a>
-
+|[Next Topic](/01_pseudocode/06_Arrays.md)|
+|---|
