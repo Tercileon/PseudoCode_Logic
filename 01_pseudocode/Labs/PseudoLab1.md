@@ -109,5 +109,5 @@ Display "Moon: ", GRAVITY, " meters per second every second."
 ```
 
 ---
-|[Next Topic](02_pseudocode.md)|
+|[Next Topic](01_pseudocode/02_pseudocode.md)|
 |---|
