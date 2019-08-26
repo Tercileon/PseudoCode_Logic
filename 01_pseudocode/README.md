@@ -33,5 +33,7 @@ ISBN-10: 1-337-10207-5,  ISBN-13: 978-1-337-10207-0
 * Looping
 * Arrays
 
-[Next Topic](01_Overview.md)
+---
 
+[Next Topic](01_Overview.md)
+|---|
