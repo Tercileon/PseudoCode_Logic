@@ -99,5 +99,5 @@ The department names are shown in the Table below
 
 ---
 
-|[Next Subject](/03_Debugging/01_Intro_to_Debugging.md)|
+|[Next Topic](/03_Debugging/01_Intro_to_Debugging.md)|
 |---|
