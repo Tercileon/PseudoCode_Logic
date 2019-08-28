@@ -1,7 +1,8 @@
-|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|[Table of Contents](/00-Table-of-Contents.md)|
 |---|
 
-# Intro to Debugging
+---
+## Intro to Debugging
 
 ![](/assets/debugging.jpg)
 
