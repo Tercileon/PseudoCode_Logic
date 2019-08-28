@@ -1,4 +1,4 @@
-|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|[Table of Contents](/00-Table-of-Contents.md)|
 |---|
 
 ---
@@ -109,5 +109,6 @@ Display "Moon: ", GRAVITY, " meters per second every second."
 ```
 
 ---
+
 |[Next Topic](/01_pseudocode/02_pseudocode.md)|
 |---|
