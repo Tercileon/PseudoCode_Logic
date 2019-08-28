@@ -1,4 +1,4 @@
-|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|[Table of Contents](/00-Table-of-Contents.md)|
 |---|
 
 ---
@@ -266,5 +266,3 @@ End For
 
 |[Performance Lab 5](Labs/PseudoLab5.md)|
 |---|
-
-
